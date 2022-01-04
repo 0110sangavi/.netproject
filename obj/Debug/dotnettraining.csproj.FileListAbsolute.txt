@@ -1,0 +1,7 @@
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\bin\Debug\dotnettraining.exe.config
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\bin\Debug\dotnettraining.exe
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\bin\Debug\dotnettraining.pdb
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\obj\Debug\dotnettraining.csproj.AssemblyReference.cache
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\obj\Debug\dotnettraining.csproj.CoreCompileInputs.cache
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\obj\Debug\dotnettraining.exe
+C:\Users\Sangavi R\source\repos\dotnettraining\dotnettraining\obj\Debug\dotnettraining.pdb
